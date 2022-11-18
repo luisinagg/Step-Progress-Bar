@@ -1,6 +1,6 @@
 # Step-Progress-Bar
 
-🎬Step progress bar | JavaScript
+🎬 Responsive Step progress bar | JavaScript
 
 It´s a Simple Step Progress Bar build with HTML, CSS, and JavaScript.
 
